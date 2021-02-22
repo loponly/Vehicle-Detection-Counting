@@ -20,7 +20,7 @@
 5. Run detect.py (input the file into datasets/predict)
 6. output in detections folder
 
-If you want to make the topic2 and topic3.
+If you want to me design the topic2 and topic3. ( I don't have GPU to run video but it is fairly simple. My laptop takes while to run)
 Please contact me by email or skype:
 My email: Enkhbatlop@gmail.com
 skype: loponly17
