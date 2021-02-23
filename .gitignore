@@ -5,6 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+envs/
+.vscode/
+videos/
+checkpoints/
+yolov4.weights
+Topic23-video1.mp4 
+Topic23-video2.mp4
 
 # Distribution / packaging
 .Python
