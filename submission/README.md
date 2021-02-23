@@ -27,12 +27,12 @@ skype: loponly17
 
 # For Topic 2
 
-I have completed the topic 2 but run only on first two videos out of 3 videos because my laptop is slow and no GPU, rendering video takes whole day. Next month I will get the new laptop so I could run faster. Even I could run the Topic 3 when I got faster laptop.
-Also I have added the count text in courner of the video.
-Here is upwork link:
+I have completed topic 2 but run only on the first two videos out of 3 videos because my laptop is slow and no GPU, rendering video takes a whole day. Next month I will get a new laptop so I could run faster. Even I could run Topic 3 when I got the faster laptop.
+Also, I have added the count text in corner of the video.
+Here is the Upwork link:
 https://www.upwork.com/freelancers/~01bdd341e8dc65a31f
 
-here is linkedin links:
+here LinkedIn links:
 https://www.linkedin.com/in/enkhbat-enkhtaivan-63171556/
 
 ## Output data is in submission/Enkhbat/Topic2/detections_video
