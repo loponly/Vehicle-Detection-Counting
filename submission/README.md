@@ -49,4 +49,22 @@ https://www.linkedin.com/in/enkhbat-enkhtaivan-63171556/
 5. Run detect_video.py (input the file into datasets/predict)
 6. output in detections_video folder
 
+# For Topic 3
+
+I have completed topic 3 but run only on the first videos out of 3 videos.
+
+## Output data is in submission/Enkhbat/Topic3/detection_track
+
+# Run Instruction
+
+1. Prepare the enviroment: Setup the python 3.8 and install the requirements.txt
+2. Download the yolov4.weights
+   (
+   https://drive.google.com/file/d/1FOpjAJdd9ZoVQJr-by3yKrA2YFwObk9y/view?usp=sharing
+   )
+3. Then put the weights into submission/Enkhbat/Topic1/script/data/yolov4.weights
+4. navigate to submission/Enkhbat/Topic1/script/ then Run save_model.py
+5. Run track_object.py (input the file into data/videos)
+6. output in detection_track folder
+
 Thank you

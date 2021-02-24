@@ -12,6 +12,9 @@ checkpoints/
 yolov4.weights
 Topic23-video1.mp4 
 Topic23-video2.mp4
+Topic23-video1_with_destination.mp4
+mars-small128.pb
+core_/
 
 # Distribution / packaging
 .Python
